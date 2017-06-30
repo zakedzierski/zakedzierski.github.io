@@ -1,13 +1,6 @@
 body {
 background-color: lightblue;
 }
-body {
-    color: teal;
-}
-
-h1 {
-    color: black;
-}
 p {
-    font-family: "Times New Roman";
+    font-family: "Lucida Console", Courier New, Monospace;
 }
