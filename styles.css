@@ -10,4 +10,7 @@ background-color: lightblue;
 #pics {
     color: red;
 }
-
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
